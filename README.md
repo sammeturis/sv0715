@@ -16,7 +16,8 @@ SQL to insert sample data:
     Refer /src/main/resources/database/data.sql
 
 URLs:
-    get all the courses: using postman or equivalent
+    get tool checkout info: using postman or equivalent
+    
         - localhost:8080/rental/checkout
 
     Sample Request: [curl]
