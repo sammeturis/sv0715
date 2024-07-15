@@ -6,10 +6,13 @@ To demonstrate simple Tool Rental API Application
 Pre-requisites:
 
 Database: h2 in-memory DB
+
 Schema Sqls:
+
     Refer /src/main/resources/database/schema.sql
 
 SQL to insert sample data:
+
     Refer /src/main/resources/database/data.sql
 
 URLs:
